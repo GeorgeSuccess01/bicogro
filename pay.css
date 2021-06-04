@@ -1,0 +1,78 @@
+.boom{
+    background-image: url('lake.jpg');
+    box-shadow: 2px 2px 2px 2px black;
+    background-position-x: left;
+    background-position-y:center;
+}
+.download{
+
+    background-color: rgb(146, 33, 252);
+    color:white;
+    padding-left:30px;
+    padding-right:30px;
+    padding-top:10px;
+    padding-bottom:10px;
+    border-radius:15px;
+    margin:10px;
+}
+
+.bold{
+    color:white;
+}
+h2{
+    color:white;
+    text-shadow: 2px 2px 2px black;
+}
+
+    footer{
+
+        background-color: rgb(68, 68, 68);
+        padding:8px;
+    }
+    
+
+    .read{
+        background-color: rgb(101, 37, 161);
+        color:white;
+        border-radius: 20px;
+        border:thin white;
+        padding-left:20px;
+        padding-right:20px;
+        padding-top:8px;
+        padding-bottom:8px;
+    }
+    
+
+.pic{
+
+    border: solid white;
+    border-radius: 20px;
+    height:40px;
+    width:55px;
+}
+
+.logo{
+
+    width:30px;
+    height:25px;
+    border-radius: 100px;
+    
+    }
+    .link{
+
+        color:white;
+        background-color: rgb(180, 101, 253);
+        
+        border:rgb(180, 101, 253) thin;
+        
+        
+        }
+        
+        .nav{
+        background-color: rgb(180, 101, 253);
+        padding:8px;
+        box-shadow: 1px 1px 1px 1px black;
+        font-weight: bold  30%;
+        
+        }
+            
